@@ -1,6 +1,7 @@
 import React from 'react';
 
-import Demo from './before/01-counter/counter-state';
+import Demo from './shared/welcome';
+// import Demo from './before/01-counter/counter-state';
 // import Demo from './done/01-counter/counter-state';
 // import Demo from './before/02-effect/clock-effect';
 // import Demo from './done/02-effect/clock-effect';

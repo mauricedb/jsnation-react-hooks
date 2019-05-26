@@ -42,7 +42,7 @@ The target audience is every React developer interested in the future of compone
 
 ### Installation
 
-- A laptop with Node 8 and NPM 8 or later and your favorite code editor installed on it.
+- A laptop with Node 8 and NPM 6 or later and your favorite code editor installed on it.
 
 ### Technical knowledge:
 

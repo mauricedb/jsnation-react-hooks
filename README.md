@@ -23,12 +23,18 @@ Join Maurice in this interactive workshop -you will learn all about using the di
 
 ### Part 3: Using the more advanced hooks
 
-### Part 4: Concurrent React
+- Using useDebugValue() to display additional information in the React DevTools
+- Memoize values using useMemo() for better preformance and pure components
+- Replace useState() with useReducer() for more complex state management
+- Using the useRef() hook to get a reference to DOM objects or child components
+- Use the useRef() hook to maintain arbitrary state between renders of a component
 
-- Use lazy() to automatically bundle split and lazy load parts of your application
-- Add strict mode to ensure your React components will work with concurrent React
-- Use concurrent rendering with ReactDOM
-- Leverage React cache to make async loading of data even easier
+### ~~Part 4: Concurrent React~~
+
+- ~~Use lazy() to automatically bundle split and lazy load parts of your application~~
+- ~~Add strict mode to ensure your React components will work with concurrent React~~
+- ~~Use concurrent rendering with ReactDOM~~
+- ~~Leverage React cache to make async loading of data even easier~~
 
 ## Objectives
 
